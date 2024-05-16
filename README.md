@@ -9,7 +9,7 @@ pip install scikit-learn numpy pandas matplotlib seaborn
 ```
 
 ## Unsupervised Learning
-Unsupervised learning is a machine learning paradigm where the algorithm learns patterns from input data without explicit supervision or labeled responses. Unlike supervised learning, where the algorithm is trained on labeled data to make predictions, unsupervised learning algorithms operate on input data without labeled responses, seeking to discover hidden structures or intrinsic patterns within the dataset. This approach is particularly useful when dealing with unlabelled data or when the task involves discovering underlying relationships or grouping similar data points together. Unsupervised learning techniques are widely used across various domains, including data mining, pattern recognition, and exploratory data analysis.<center><img src=https://static.javatpoint.com/tutorial/machine-learning/images/unsupervised-machine-learning-1.png></center>
+Unsupervised learning is a machine learning paradigm where the algorithm learns patterns from input data without explicit supervision or labeled responses. Unlike supervised learning, where the algorithm is trained on labeled data to make predictions, unsupervised learning algorithms operate on input data without labeled responses, seeking to discover hidden structures or intrinsic patterns within the dataset. This approach is particularly useful when dealing with unlabelled data or when the task involves discovering underlying relationships or grouping similar data points together. Unsupervised learning techniques are widely used across various domains, including data mining, pattern recognition, and exploratory data analysis.<center><img src=https://cdn.botpenguin.com/assets/website/Unsupervised_Learning_00d7213c25.png></center>
 
 ## K means Clustering
 K-means clustering is a popular unsupervised learning algorithm used for partitioning a dataset into K distinct, non-overlapping clusters. The goal of K-means clustering is to group data points into clusters based on similarity, where each cluster is represented by its centroid, the mean of the data points belonging to that cluster. The algorithm iteratively assigns data points to the nearest centroid and then recalculates the centroids based on the mean of the assigned data points. This process continues until the centroids no longer change significantly or a specified number of iterations is reached. K-means clustering is widely used for various applications, including customer segmentation, image processing, and anomaly detection, providing an efficient and scalable solution for clustering large datasets.<center><img src=https://assets.blog.code-specialist.com/k_means_animation_6cdd31d106.gif></center>
@@ -42,7 +42,7 @@ The dataset contains features of social media posts. Here are the explanations o
 - Analysis of features across clusters.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE]() file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/soumyadeepghoshGG/Social-Media-Engagement-Analysis/blob/main/License.txt) file for details.
 
 ## Contact
 For questions or issues, please contact me (Soumyadeep Ghosh) via mail: soumyadeepghosh57@gmail.com
